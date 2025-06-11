@@ -1,0 +1,350 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Berjak &amp; Partners. Trading in Ferrous/Non Ferrous Metals &amp; Minerals since 1954</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+a:link {
+	color: #333333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:hover {
+	text-decoration: underline;
+	color: #139c89;
+}
+a:active {
+	text-decoration: none;
+	color: #333333;
+}
+.title01 {
+	border: thin solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	padding-left: 3px;
+	padding-top: 4px;
+}
+.tablestyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: thin solid #FFFFFF;
+	color: #000000;
+	padding-left: 4px;
+}
+.style1 {
+	color: #333333;
+	font-weight: bold;
+}
+.smalltable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	background-color: #F9FFFF;
+	padding-left: 5px;
+	border: thin solid #FFFFFF;
+}
+-->
+</style>
+</head>
+
+<body onLoad="MM_preloadImages('Images/n_comp_d.gif','Images/n_prod_d.gif','Images/n_cont_d.gif','Images/n_off_down.gif')">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr>
+    <td height="100" colspan="2" valign="top" bgcolor="#139C89"><img src="Images/logo01.gif" width="180" height="98"></td>
+    <td width="100%" valign="top" bgcolor="#139C89"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="89" colspan="2" valign="top">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top"><img src="Images/title_offers.gif" width="365" height="89"></td>
+            <td align="right" valign="bottom"><a href="#" onclick="window.print();"><img src="Images/printpage.jpg" border="0"></a></td>
+          </tr>
+        </table>
+    </td>
+    <td valign="bottom" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="180" height="31" valign="top" bgcolor="#454444"><a href="home.htm"><img src="Images/n_home.gif" width="180" height="31" border="0"></a></td>
+    <td width="570" valign="top" bgcolor="#454444">
+  <table border="0" cellpadding="0" cellspacing="0" mm_noconvert="TRUE">
+    <tr>
+      <td><a href="profile.htm" target="_top" onClick="MM_nbGroup('down','group1','comp','Images/n_comp_d.gif',1)" onMouseOver="MM_nbGroup('over','comp','Images/n_comp_d.gif','Images/n_comp_d.gif',1)" onMouseOut="MM_nbGroup('out')"><img src="Images/n_comp_up.gif" alt="" name="comp" width="137" height="31" border="0" onload=""></a></td>
+      <td><a href="products.htm" target="_top" onClick="MM_nbGroup('down','group1','prod','Images/n_prod_d.gif',1)" onMouseOver="MM_nbGroup('over','prod','Images/n_prod_d.gif','Images/n_prod_d.gif',1)" onMouseOut="MM_nbGroup('out')"><img src="Images/n_prod_up.gif" alt="" name="prod" width="93" height="31" border="0" onload=""></a></td>
+      <td><a href="contact.htm" target="_top" onClick="MM_nbGroup('down','group1','cont','Images/n_cont_d.gif',1)" onMouseOver="MM_nbGroup('over','cont','Images/n_cont_d.gif','Images/n_cont_d.gif',1)" onMouseOut="MM_nbGroup('out')"><img src="Images/n_cont_up.gif" alt="" name="cont" width="103" height="31" border="0" onload=""></a></td>
+      <td><a href="javascript:;" target="_top" onClick="MM_nbGroup('down','group1','off','Images/n_off_down.gif',1)" onMouseOver="MM_nbGroup('over','off','Images/n_off_down.gif','Images/n_off_down.gif',1)" onMouseOut="MM_nbGroup('out')"><img src="Images/n_off_down.gif" alt="" name="off" border="0" onload=""></a></td>
+    </tr>
+  </table>
+</td>
+    <td valign="top" bgcolor="#454444"><img src="Images/bg_nbar.gif" width="100%" height="31"></td>
+  </tr>
+
+<?
+
+$site_root = "./";
+
+include ($site_root . "/includes/common.php");
+include ($site_root . "/includes/class/products.php");
+include ($site_root . "/includes/class/sieve_analysis.php");
+include ($site_root . "/includes/class/sieve_size.php");
+include ($site_root . "/includes/class/chemicals.php");
+
+
+$pc = new products($id);
+
+$allproducts = $pc->get_all("", "active > 0");
+
+foreach($allproducts as $product_row) {
+    $p = new products();
+    $p->assign($product_row);
+
+
+?>
+  <tr>
+    <td height="193" valign="top"><img src="thumb.php?image=product_<? echo $p->id; ?>.jpg&gallery=offers&width=180&height=193" width="180" height="193"></td>
+    <td rowspan="2" valign="top" bgcolor="#DDF2EA"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <!--DWLayoutTable-->
+        <tr bgcolor="#FFFFFF" class="title01">
+          <td colspan="4" height="25" class="title01">PRODUCT TYPE: <? echo $p->sfh('name') ?> </td>
+        </tr>
+        <?
+        if($p->description) {
+        ?>
+            <tr class="tablestyle">
+              <td colspan="4" class="tablestyle"><span class="style1"><? echo str_replace("\n", "<br>", str_replace("\r\n", "<br>", $p->sfh('description'))); ?></span></td>
+            </tr>
+        <?
+        }
+
+
+        $sa = new chemicals();
+        $thechems = $sa->get_all("", "product_id = " . $p->id . " AND active=1");
+        if($thechems) {
+            ?>
+
+            <tr class="tablestyle">
+              <td colspan="4" class="tablestyle"><span class="style1">CHEMICAL SPECIFICATION </span></td>
+            </tr>
+            <tr class="tablestyle">
+              <td width="94" height="18" valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+              <td width="165" valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+              <td width="168" class="tablestyle"><span class="style1">Guaranteed</span></td>
+              <td width="143" class="tablestyle"><span class="style1">Typical</span></td>
+            </tr>
+
+            <?
+
+            foreach ($thechems as $r) {
+                $ro = new chemicals();
+                $ro->assign($r);
+
+            ?>
+            <tr class="tablestyle">
+              <td class="tablestyle"><? echo $ro->sfh('name'); ?></td>
+              <td class="tablestyle"><? echo $ro->sfh('description'); ?></td>
+              <td class="tablestyle"><? echo $ro->sfh('guaranteed'); ?></td>
+              <td class="tablestyle"><? echo $ro->sfh('typical'); ?></td>
+            </tr>
+            <?
+            }
+        }
+        ?>
+        <?
+
+        $sa = new sieve_analysis();
+        $thesieve_analysis= $sa->get_all("", "product_id = " . $p->id . " AND active=1");
+        if($thesieve_analysis) {
+            ?>
+            <tr class="tablestyle">
+              <td colspan="4" class="tablestyle"><span class="style1">TYPICAL SIEVE ANALYSIS </span></td>
+            </tr>
+            <tr class="tablestyle">
+              <td height="18" valign="top" class="tablestyle"><span class="style1">Aperture in </span></td>
+              <td valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+              <td valign="top" class="tablestyle"><span class="style1">% Cumulative </span></td>
+              <td valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+            </tr>
+            <tr class="tablestyle">
+              <td height="18" valign="top" class="tablestyle"><span class="style1">Microns</span></td>
+              <td valign="top" class="tablestyle"><span class="style1">% Retained </span></td>
+              <td valign="top" class="tablestyle"><span class="style1">Retained</span></td>
+              <td valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+            </tr>
+
+
+            <?
+
+            foreach ($thesieve_analysis as $r) {
+                $ro = new sieve_analysis();
+                $ro->assign($r);
+            ?>
+            <tr class="tablestyle">
+              <td height="18" valign="top" class="tablestyle"><? echo $ro->sfh('aperture_microns'); ?></td>
+              <td class="tablestyle"><? echo $ro->sfh('retained'); ?></td>
+              <td class="tablestyle"><? echo $ro->sfh('cumulative_retained'); ?></td>
+              <td class="tablestyle">&nbsp;</td>
+            </tr>
+            <?
+            }
+        }
+        ?>
+        <tr class="tablestyle">
+          <td height="14" colspan="4" valign="top" class="tablestyle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1"></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        </table></td>
+    <td rowspan="2" valign="top" bgcolor="#ECF8F3"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0">
+        <!--DWLayoutTable-->
+        <?
+        $sa = new sieve_size();
+        $thesieve_size= $sa->get_all("", "product_id = " . $p->id . " AND active = 1");
+        if($thesieve_size) {
+
+        ?>
+            <tr class="smalltable">
+              <td height="18" colspan="2" valign="top" class="smalltable"><strong>BRITISH STANDARD SIEVE SIZE </strong></td>
+            </tr>
+            <tr class="smalltable">
+              <td height="18" colspan="2" valign="top" class="smalltable"><!--DWLayoutEmptyCell-->&nbsp;</td>
+            </tr>
+
+            <?
+            foreach ($thesieve_size as $r) {
+                $ro = new sieve_size();
+                $ro->assign($r);
+            ?>
+            <tr class="smalltable">
+              <td width="83" height="18" valign="top" class="smalltable"><? echo $ro->sfh('plus_minus_num'); ?></td>
+              <td width="97" valign="top" class="smalltable"><? echo $ro->sfh('other_num'); ?></td>
+            </tr>
+            <?
+            }
+
+        }
+        ?>
+        <tr class="smalltable">
+          <td height="18" colspan="2" valign="top" class="smalltable"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        </tr>
+	    <tr class="smalltable">
+          <td colspan="2" valign="top" class="smalltable">Packing: <? echo $p->sfh('packing_text') ?> </td>
+        </tr>
+	    <tr class="smalltable">
+          <td height="31" colspan="2" valign="top" class="smalltable"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        </tr>
+        </table></td>
+  </tr>
+
+
+<?
+
+}
+
+?>
+
+
+
+  <tr>
+    <td height="50" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td valign="top"></td>
+  </tr>
+  <tr>
+    <td height="100" colspan="2" valign="top">
+      <div align="center"><img src="Images/logo02.gif" width="114" height="65"><br>
+        <span class="footer">240 Bay Street, Brighton Australia 3186 Phone: 61-3-9596 6999 Fax: 61-3-9596 8024 Email: <a href="mailto:trading@berjak.com.au">trading@berjak.com.au</a> <br>
+        <br>
+  </span></div></td>
+    <td valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top"><img src="transparent.gif" alt="" width="180" height="1"></td>
+    <td height="1" valign="top"><img src="transparent.gif" alt="" width="570" height="1"></td>
+    <td height="1" valign="top"></td>
+  </tr>
+</table>
+</body>
+</html>

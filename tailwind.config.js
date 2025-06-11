@@ -7,7 +7,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Add custom colors here
+        berjak: {
+          primary: '#139C89',    // Original teal color
+          secondary: '#454444',  // Dark gray
+          light: '#DDF2EA',     // Light teal
+          lighter: '#ECF8F3',   // Lightest teal
+          text: '#333333',      // Text color
+        },
       },
       typography: {
         DEFAULT: {

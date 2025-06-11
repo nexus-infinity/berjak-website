@@ -1,34 +1,29 @@
 import Head from 'next/head'
 import { useRouter } from 'next/router'
+import Header from './Header'
+import Footer from './Footer'
 
-export default function Layout({ children, title = 'Berjak' }) {
+export default function Layout({ children, title = 'Berjak & Partners' }) {
   const router = useRouter()
+  const defaultDescription = 'Trading in Ferrous/Non Ferrous Metals & Minerals since 1954'
   
   return (
     <div className="min-h-screen flex flex-col">
       <Head>
-        <title>{title}</title>
-        <meta name="description" content="Berjak - Professional Services" />
+        <title>{`${title} - ${defaultDescription}`}</title>
+        <meta name="description" content={defaultDescription} />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header className="bg-white shadow-sm">
-        <nav className="container mx-auto px-4 py-4">
-          {/* Add navigation items here */}
-        </nav>
-      </header>
+      <Header />
 
-      <main className="flex-grow">
-        {children}
+      <main className="flex-grow bg-white">
+        <div className="container mx-auto px-4">
+          {children}
+        </div>
       </main>
 
-      <footer className="bg-gray-50">
-        <div className="container mx-auto px-4 py-8">
-          <p className="text-center text-gray-500">
-            © {new Date().getFullYear()} Berjak. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   )
 }

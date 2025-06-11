@@ -1,0 +1,30 @@
+
+> berjak-website@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.3.3
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.86.30:3000
+
+ ✓ Starting...
+ ✓ Ready in 1100ms
+ ⚠ Cross origin request detected from 0.0.0.0 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /_error in 346ms (554 modules)
+ GET /_next/static/webpack/199926a32a152fa9.webpack.hot-update.json 404 in 671ms
+ GET /_next/static/webpack/199926a32a152fa9.webpack.hot-update.json 404 in 554ms
+ GET /profile** 404 in 438ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled / in 92ms (558 modules)
+ GET /profile** 404 in 289ms
+ ⚠ The "images.domains" configuration is deprecated. Please use "images.remotePatterns" configuration instead.
+ GET / 200 in 353ms
+ GET /profile** 404 in 222ms
+ ✓ Compiled in 239ms (558 modules)
+ GET /products** 404 in 332ms
+ GET /api/fractal-banking/bridge 404 in 245ms
+ GET /api/fractal-banking/bridge 404 in 226ms
+ ✓ Compiled in 221ms (558 modules)
+ ✓ Compiled in 54ms (558 modules)
+ ✓ Compiled in 93ms (558 modules)

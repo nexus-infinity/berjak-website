@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "field-mcp-server": {
+            "type": "stdio",
+            "command": "python3",
+            "args": ["/Users/jbear/FIELD/mcp_field_bridge.py"],
+            "env": {
+                "FIELD_PATH": "/Users/jbear/FIELD",
+                "BERJAK_PORTAL_PATH": "/Users/jbear/FIELD/COMS/berjak-website"
+            }
+        }
+    }
+}
+
