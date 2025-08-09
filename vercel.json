@@ -38,6 +38,15 @@
       "permanent": true
     }
   ],
+  "functions": {
+    "pages/api/webhook.js": {
+      "runtime": "nodejs18.x",
+      "includeFiles": "pages/api/**"
+    }
+  },
+  "env": {
+    "TRAIN_STATION_URL": "http://localhost:5280"
+  },
   "regions": ["iad1", "syd1"],
   "framework": "nextjs"
 }

@@ -21,7 +21,7 @@ export default function Offers() {
                   </h2>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Contact our trading desk via phone or email</li>
-                    <li>Specify the materials you're interested in</li>
+                    <li>Specify the materials you&apos;re interested in</li>
                     <li>Provide your required quantities</li>
                     <li>Ask about current market conditions and pricing</li>
                   </ul>
