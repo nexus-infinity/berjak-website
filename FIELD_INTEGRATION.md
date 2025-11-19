@@ -70,8 +70,9 @@ Data is intelligently routed to MCP fields based on content:
 
 The integration maintains sacred geometric principles:
 - **Harmonic Ratio**: 528/432 = 1.222 (sacred ratio)
-- **Frequency Alignment**: Love (528 Hz) → Earth (432 Hz)
-- **Tetrahedral Flow**: OBI-WAN → TATA → ATLAS → DOJO processing
+- **Frequency Alignment**: All sacred, digital, and organic flows reconverge at 432 Hz within ◼︎ DOJO
+- **Cycle**: Observer → Architect → Weaver operating simultaneously across sacred (OBI-WAN • TATA • ATLAS), digital-support (Akron • FIELD-DEV • FIELD-LIVING), and organic-support (Arkadaş • OB-Link • SomaLink) domains
+- **Validation Rule**: Train Station must confirm 432 Hz coherence before DOJO manifests any deployment webhook
 
 ## Environment Variables
 

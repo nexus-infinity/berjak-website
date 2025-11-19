@@ -1,0 +1,132 @@
+{
+  "version": "2025-11-01T22:37:38+11:00",
+  "schema": "FIELD_WORK_DOMAIN_ONTOLOGY/1.0",
+  "domains": {
+    "sacred": {
+      "description": "Observer • Truth • Architect axes governing sacred geometry before manifestation.",
+      "nodes": [
+        {
+          "id": "obi-wan",
+          "symbol": "OBI-WAN",
+          "glyph": "●",
+          "role": "observer",
+          "resonance_hz": 963,
+          "path": "/Users/jbear/FIELD/●OBI-WAN"
+        },
+        {
+          "id": "tata",
+          "symbol": "TATA",
+          "glyph": "▼",
+          "role": "truth",
+          "resonance_hz": 432,
+          "path": "/Users/jbear/FIELD/▼TATA"
+        },
+        {
+          "id": "atlas",
+          "symbol": "ATLAS",
+          "glyph": "▲",
+          "role": "architect",
+          "resonance_hz": 528,
+          "path": "/Users/jbear/FIELD/▲ATLAS"
+        }
+      ]
+    },
+    "digital_support": {
+      "description": "Tools, processing, and archival reflection aligning to DOJO at 432 Hz.",
+      "nodes": [
+        {
+          "id": "akron",
+          "symbol": "AKRON",
+          "glyph": "⟡",
+          "role": "sovereign_archive",
+          "resonance_hz": 285,
+          "path": "/Volumes/Akron"
+        },
+        {
+          "id": "field-dev",
+          "symbol": "FIELD-DEV",
+          "glyph": "⬛",
+          "role": "development",
+          "resonance_hz": 432,
+          "path": "/Users/jbear/FIELD-DEV"
+        },
+        {
+          "id": "field-living",
+          "symbol": "FIELD-LIVING",
+          "glyph": "⊞",
+          "role": "real_time_operation",
+          "resonance_hz": 528,
+          "path": "/Users/jbear/FIELD-LIVING"
+        }
+      ]
+    },
+    "organic_support": {
+      "description": "Embodied sensing, awareness, and resonance feedback maintaining living harmony.",
+      "nodes": [
+        {
+          "id": "arkadas",
+          "symbol": "Arkadas",
+          "glyph": "Arkadaş",
+          "role": "movement",
+          "resonance_hz": 396,
+          "path": "/Users/jbear/FIELD-LIVING/◆_soma_embodied"
+        },
+        {
+          "id": "ob-link",
+          "symbol": "OB-Link",
+          "glyph": "OB-Link",
+          "role": "awareness",
+          "resonance_hz": 639,
+          "path": "/Users/jbear/FIELD-LIVING/◆_living_memory"
+        },
+        {
+          "id": "somalink",
+          "symbol": "SomaLink",
+          "glyph": "SomaLink",
+          "role": "resonance",
+          "resonance_hz": 528,
+          "path": "/Users/jbear/FIELD-LIVING/◆_living_memory"
+        }
+      ]
+    },
+    "dojo": {
+      "description": "Single tetrahedral manifestation core; all flows reconverge here at 432 Hz.",
+      "nodes": [
+        {
+          "id": "dojo-core",
+          "symbol": "DOJO",
+          "glyph": "◼︎",
+          "role": "manifestation",
+          "resonance_hz": 432,
+          "path": "/Users/jbear/DOJO"
+        }
+      ],
+      "rules": [
+        "No sacred, digital, or organic flow may bypass DOJO.",
+        "Train Station validation at 432 Hz is required before manifestation."
+      ]
+    },
+    "train_station": {
+      "description": "432 Hz bridge synchronising sacred, digital, and organic tridents.",
+      "endpoints": [
+        "/Users/jbear/FIELD-LIVING/●train_station_GEOMETRIC.py",
+        "http://localhost:5280/health",
+        "http://localhost:5280/geometry"
+      ]
+    }
+  },
+  "cycles": {
+    "observer_architect_weaver": [
+      "observer:OBI-WAN",
+      "architect:ATLAS",
+      "weaver:TATA",
+      "manifest:DOJO",
+      "reflect:FIELD-LIVING"
+    ]
+  },
+  "validation": {
+    "harmonic_rule": "All nodes must reconverge through ◼︎ DOJO at 432 Hz.",
+    "frequency_bridge": "Train Station enforces 432 Hz frequency conversions.",
+    "last_review": "2025-11-01T22:37:38+11:00"
+  }
+}

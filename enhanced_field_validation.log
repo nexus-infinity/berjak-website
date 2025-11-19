@@ -1,0 +1,734 @@
+🔍✨ 2025-11-02 17:46:53,810 - Enhanced FIELD Validator - WARNING - ⚠️ Standard manifest not found at /Users/jbear/FIELD-LIVING/FIELD_LIVING_MANIFEST_ALIGNED.json, using basic structure
+🔍✨ 2025-11-02 17:46:53,811 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry manifest integrator not available
+🔍✨ 2025-11-02 17:46:53,811 - Enhanced FIELD Validator - INFO - 🚀 Starting enhanced FIELD-LIVING validation with geometry integration...
+🔍✨ 2025-11-02 17:46:53,811 - Enhanced FIELD Validator - INFO - 🧭 Validating enhanced folder structure...
+🔍✨ 2025-11-02 17:46:53,825 - Enhanced FIELD Validator - INFO - ✅ Structure validation complete. Found 86 folders.
+🔍✨ 2025-11-02 17:46:53,826 - Enhanced FIELD Validator - INFO - 📜 Validating enhanced symbolic naming conventions...
+🔍✨ 2025-11-02 17:46:53,827 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry integration not available, skipping geometry validation
+🔍✨ 2025-11-02 17:46:53,827 - Enhanced FIELD Validator - INFO - 🔮 Validating sacred geometry alignment...
+🔍✨ 2025-11-02 17:46:53,827 - Enhanced FIELD Validator - INFO - 🎯 Validating prime directive compliance
+🔍✨ 2025-11-02 17:46:53,827 - Enhanced FIELD Validator - INFO - 🪞 Validating form-function mirror alignment
+🔍✨ 2025-11-02 17:46:54,351 - Enhanced FIELD Validator - INFO - 🧩 Validating symbolic placement logic
+🔍✨ 2025-11-02 17:46:54,351 - Enhanced FIELD Validator - INFO - 🌊 Validating movement respect alignments
+🔍✨ 2025-11-02 17:46:54,351 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fix mode: DRY RUN
+🔍✨ 2025-11-02 17:46:54,351 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fixes:
+🔍✨ 2025-11-02 17:46:54,351 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_field_essence → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⬢_integration_flows → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●_observer_core → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●tools → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●field-portal → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ▲◼DOJO → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_embodied → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●_observation_records → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦DOCUMENTS → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_documentation_archives → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_memory_core → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_standards → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●business_documents → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦BUSINESS → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: raycast-extensions → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_process_documentation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pids → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●DALL·E Module → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦MEDIA → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●SacredGeometrySystem → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦HEALTH → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: admin → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _services → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_wisdom_vessel → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: scripts → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●ai → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚖️_forensic_data → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: train_station → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_documentation_core → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_field_essence → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●benchmarking → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: court_30_oct_2025 → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⬢_field_flow → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: run_scripts → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_field_flow → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: venv_ray311 → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _common → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●RESTORED → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_memory → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▼TATA → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_validation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,352 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●lib → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configuration → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⟡_init → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO_ACTIVE → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_documentation_examples → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: AI_PORTALS → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: 🏛️_TATA_FOUNDATION_ARCHIVE → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●logs → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: o_memory_core → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD-DEV → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: logs → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation-templates → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_crm_integration → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ai → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●observer_tools → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⬢_documentation_registry → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configs → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦FINANCE → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_akron_sdr → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦GHOST-STATION → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: sync-pulse → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_living_memory → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_active_documentation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: system_monitoring → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◉_sacred_field_index → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pages → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _purge_logs → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: DOJO_INTERFACE → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_function → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: notion_sync → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●scripts → RESTORED/
+🔍✨ 2025-11-02 17:46:54,353 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _field_flow → RESTORED/
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - INFO - 📊 Enhanced report saved: /Users/jbear/FIELD-LIVING/enhanced_validation_report_1762066014.json
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR - ❌ Enhanced validation failed with 146 violations
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_field_essence
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⬢_integration_flows
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●_observer_core
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●tools
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●field-portal
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ▲◼DOJO
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_embodied
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●_observation_records
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦DOCUMENTS
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_documentation_archives
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_memory_core
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_standards
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●business_documents
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦BUSINESS
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: raycast-extensions
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_process_documentation
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pids
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●DALL·E Module
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦MEDIA
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●SacredGeometrySystem
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦HEALTH
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: admin
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _services
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_wisdom_vessel
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: scripts
+🔍✨ 2025-11-02 17:46:54,355 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●ai
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚖️_forensic_data
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: train_station
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_ground
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_documentation_core
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_field_essence
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●benchmarking
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: court_30_oct_2025
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⬢_field_flow
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: run_scripts
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_field_flow
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: venv_ray311
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_field_essence
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _common
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●RESTORED
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_memory
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▼TATA
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_validation
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_living_documentation
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●lib
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configuration
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⚙︎_field_essence
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⟡_init
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO_ACTIVE
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_documentation_examples
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: AI_PORTALS
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●logs
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: o_memory_core
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD-DEV
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: logs
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation-templates
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_crm_integration
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ai
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●observer_tools
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⬢_documentation_registry
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configs
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦FINANCE
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_akron_sdr
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦GHOST-STATION
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: sync-pulse
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_living_memory
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_active_documentation
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: system_monitoring
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◉_sacred_field_index
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_documentation
+🔍✨ 2025-11-02 17:46:54,356 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_sacred_ground
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pages
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _purge_logs
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: DOJO_INTERFACE
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_function
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: notion_sync
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●scripts
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _field_flow
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦DOCUMENTS
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: o_memory_core
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_living_documentation
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: court_30_oct_2025
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: AI_PORTALS
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_soma_crm_integration
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦FINANCE
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: raycast-extensions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: venv_ray311
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _field_flow
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _common
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦HEALTH
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_soma_embodied
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: sync-pulse
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: admin
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: run_scripts
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦GHOST-STATION
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦BUSINESS
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: train_station
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: logs
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _services
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ai
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: scripts
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⚙︎_field_essence
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _purge_logs
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⟡_init
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: DOJO_INTERFACE
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_living_memory
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦MEDIA
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: notion_sync
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: system_monitoring
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◆_living_documentation should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_field_flow should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pids should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation-templates should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⬢_integration_flows should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_documentation_core should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●RESTORED should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⊞_validation should contain observer functions
+🔍✨ 2025-11-02 17:46:54,357 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●field-portal should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●tools should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●lib should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_field_essence should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◉_sacred_field_index should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●DALL·E Module should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●❖_wisdom_vessel should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚖️_forensic_data should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●logs should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pages should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_active_documentation should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observer_core should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●benchmarking should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observation_records should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configuration should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚙︎_process_documentation should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●scripts should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configs should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_standards should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●business_documents should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_ground should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_documentation_archives should contain observer functions
+🔍✨ 2025-11-02 17:46:54,358 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_function should contain observer functions
+🔍✨ 2025-11-02 18:00:34,600 - Enhanced FIELD Validator - WARNING - ⚠️ Standard manifest not found at /Users/jbear/FIELD-LIVING/FIELD_LIVING_MANIFEST_ALIGNED.json, using basic structure
+🔍✨ 2025-11-02 18:00:34,601 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry manifest integrator not available
+🔍✨ 2025-11-02 18:00:34,601 - Enhanced FIELD Validator - INFO - 🚀 Starting enhanced FIELD-LIVING validation with geometry integration...
+🔍✨ 2025-11-02 18:00:34,601 - Enhanced FIELD Validator - INFO - 🧭 Validating enhanced folder structure...
+🔍✨ 2025-11-02 18:00:34,608 - Enhanced FIELD Validator - INFO - ✅ Structure validation complete. Found 87 folders.
+🔍✨ 2025-11-02 18:00:34,608 - Enhanced FIELD Validator - INFO - 📜 Validating enhanced symbolic naming conventions...
+🔍✨ 2025-11-02 18:00:34,610 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry integration not available, skipping geometry validation
+🔍✨ 2025-11-02 18:00:34,610 - Enhanced FIELD Validator - INFO - 🔮 Validating sacred geometry alignment...
+🔍✨ 2025-11-02 18:00:34,610 - Enhanced FIELD Validator - INFO - 🎯 Validating prime directive compliance
+🔍✨ 2025-11-02 18:00:34,610 - Enhanced FIELD Validator - INFO - 🪞 Validating form-function mirror alignment
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO - 🧩 Validating symbolic placement logic
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO - 🌊 Validating movement respect alignments
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fix mode: DRY RUN
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fixes:
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●business_documents → RESTORED/
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●field-portal → RESTORED/
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:00:35,240 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_memory_core → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_wisdom_vessel → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _common → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●_observer_core → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦DOCUMENTS → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: system_monitoring → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO_ACTIVE → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⟡_init → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: train_station → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configs → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _purge_logs → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_documentation_examples → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation-templates → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_validation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_documentation_core → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: DOJO_INTERFACE → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: notion_sync → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⊞_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ai → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⬢_documentation_registry → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●RESTORED → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦GHOST-STATION → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●SacredGeometrySystem → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_field_flow → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●ai → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pages → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: admin → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▼TATA → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: scripts → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: logs → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●lib → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _field_flow → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: raycast-extensions → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦HEALTH → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⬢_field_flow → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _services → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦FINANCE → RESTORED/
+🔍✨ 2025-11-02 18:00:35,241 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦BUSINESS → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚖️_forensic_data → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_function → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●benchmarking → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_documentation_archives → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_standards → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●_observation_records → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●tools → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_embodied → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: run_scripts → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◉_sacred_field_index → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_memory → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pids → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_akron_sdr → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configuration → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: 🏛️_TATA_FOUNDATION_ARCHIVE → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: sync-pulse → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: court_30_oct_2025 → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: o_memory_core → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_crm_integration → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦MEDIA → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ▲◼DOJO → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD-DEV → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●scripts → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●logs → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_process_documentation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: venv_ray311 → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_living_memory → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●DALL·E Module → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: AI_PORTALS → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⬢_integration_flows → RESTORED/
+🔍✨ 2025-11-02 18:00:35,242 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_active_documentation → RESTORED/
+🔍✨ 2025-11-02 18:00:35,243 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●observer_tools → RESTORED/
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - INFO - 📊 Enhanced report saved: /Users/jbear/FIELD-LIVING/enhanced_validation_report_1762066835.json
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR - ❌ Enhanced validation failed with 148 violations
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●business_documents
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●field-portal
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⚙︎_field_essence
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_sacred_ground
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_memory_core
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_wisdom_vessel
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _common
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●_observer_core
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦DOCUMENTS
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: system_monitoring
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO_ACTIVE
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⟡_init
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: train_station
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configs
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _purge_logs
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_documentation_examples
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_ground
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation-templates
+🔍✨ 2025-11-02 18:00:35,244 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_validation
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_documentation_core
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: DOJO_INTERFACE
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: notion_sync
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⊞_field_essence
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ai
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⬢_documentation_registry
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●RESTORED
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦GHOST-STATION
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_field_essence
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●SacredGeometrySystem
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_field_flow
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●ai
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pages
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: admin
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▼TATA
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: scripts
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: logs
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●lib
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _field_flow
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: raycast-extensions
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦HEALTH
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⬢_field_flow
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _services
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦FINANCE
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦BUSINESS
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚖️_forensic_data
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_function
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●benchmarking
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_documentation_archives
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_standards
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●_observation_records
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●tools
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_embodied
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: run_scripts
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◉_sacred_field_index
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_memory
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pids
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_akron_sdr
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configuration
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: sync-pulse
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: court_30_oct_2025
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: o_memory_core
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_crm_integration
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦MEDIA
+🔍✨ 2025-11-02 18:00:35,245 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ▲◼DOJO
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD-DEV
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●scripts
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●logs
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_living_documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_process_documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_field_essence
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: venv_ray311
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_living_memory
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●DALL·E Module
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_field_essence
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: AI_PORTALS
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⬢_integration_flows
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_active_documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●observer_tools
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦DOCUMENTS
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: o_memory_core
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_living_documentation
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: court_30_oct_2025
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: AI_PORTALS
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_soma_crm_integration
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦FINANCE
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: raycast-extensions
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⊞_field_essence
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: venv_ray311
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _field_flow
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _common
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦HEALTH
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_soma_embodied
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: sync-pulse
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: admin
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: run_scripts
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦GHOST-STATION
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦BUSINESS
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: train_station
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: logs
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _services
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ai
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: scripts
+🔍✨ 2025-11-02 18:00:35,246 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⚙︎_field_essence
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _purge_logs
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⟡_init
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: DOJO_INTERFACE
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◆_living_memory
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦MEDIA
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: notion_sync
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: system_monitoring
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◆_living_documentation should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_field_flow should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pids should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation-templates should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⬢_integration_flows should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_documentation_core should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●RESTORED should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⊞_validation should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●field-portal should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●tools should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●lib should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_field_essence should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◉_sacred_field_index should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●DALL·E Module should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●❖_wisdom_vessel should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚖️_forensic_data should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●logs should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pages should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_active_documentation should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observer_core should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●benchmarking should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observation_records should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configuration should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚙︎_process_documentation should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●scripts should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configs should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_standards should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●business_documents should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_ground should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_documentation_archives should contain observer functions
+🔍✨ 2025-11-02 18:00:35,247 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_function should contain observer functions
+🔍✨ 2025-11-02 18:05:42,974 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry manifest integrator not available
+🔍✨ 2025-11-02 18:05:42,974 - Enhanced FIELD Validator - INFO - 🚀 Starting enhanced FIELD-LIVING validation with geometry integration...
+🔍✨ 2025-11-02 18:05:42,974 - Enhanced FIELD Validator - INFO - 🧭 Validating enhanced folder structure...
+🔍✨ 2025-11-02 18:05:42,976 - Enhanced FIELD Validator - INFO - ✅ Structure validation complete. Found 87 folders.
+🔍✨ 2025-11-02 18:05:42,976 - Enhanced FIELD Validator - INFO - 📜 Validating enhanced symbolic naming conventions...
+🔍✨ 2025-11-02 18:05:42,977 - Enhanced FIELD Validator - WARNING - ⚠️ Geometry integration not available, skipping geometry validation
+🔍✨ 2025-11-02 18:05:42,977 - Enhanced FIELD Validator - INFO - 🔮 Validating sacred geometry alignment...
+🔍✨ 2025-11-02 18:05:42,977 - Enhanced FIELD Validator - INFO - 🎯 Validating prime directive compliance
+🔍✨ 2025-11-02 18:05:42,977 - Enhanced FIELD Validator - INFO - 🪞 Validating form-function mirror alignment
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO - 🧩 Validating symbolic placement logic
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO - 🌊 Validating movement respect alignments
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fix mode: DRY RUN
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO - 🔧 Enhanced auto-fixes:
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation-templates → RESTORED/
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦MEDIA → RESTORED/
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pages → RESTORED/
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD-DEV → RESTORED/
+🔍✨ 2025-11-02 18:05:43,644 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●business_documents → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: admin → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: venv_ray311 → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configs → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚖️_forensic_data → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: court_30_oct_2025 → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⬢_integration_flows → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▼TATA → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●FIELD → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ▲◼DOJO → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦GHOST-STATION → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_standards → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●configuration → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_process_documentation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ai → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: logs → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●field-portal → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●pids → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _common → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⟡_init → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●lib → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_function → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼DOJO → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO_ACTIVE → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: sync-pulse → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●logs → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●scripts → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦FINANCE → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _services → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _field_flow → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦HEALTH → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: DOJO_INTERFACE → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●_observation_records → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●benchmarking → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●documentation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: notion_sync → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: run_scripts → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◉_sacred_field_index → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_memory_core → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: AI_PORTALS → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_memory → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_documentation_core → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_documentation_examples → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●SacredGeometrySystem → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●❖_wisdom_vessel → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: raycast-extensions → RESTORED/
+🔍✨ 2025-11-02 18:05:43,645 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●OBI-WAN → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ⬢_documentation_registry → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_crm_integration → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: _purge_logs → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: 🏛️_TATA_FOUNDATION_ARCHIVE → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: system_monitoring → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_field_flow → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●✣_documentation_archives → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●◎_akron_sdr → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: o_memory_core → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⊞_validation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●tools → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⦿_active_documentation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●ai → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦BUSINESS → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●observer_tools → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_soma_embodied → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●▥_sacred_ground → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◦DOCUMENTS → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◆_living_documentation → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●RESTORED → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●DALL·E Module → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: scripts → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ●⚙︎_field_essence → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ▼TATA → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: train_station → RESTORED/
+🔍✨ 2025-11-02 18:05:43,646 - Enhanced FIELD Validator - INFO -   WOULD MOVE: ◼︎DOJO → RESTORED/
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - INFO - 📊 Enhanced report saved: /Users/jbear/FIELD-LIVING/enhanced_validation_report_1762067143.json
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR - ❌ Enhanced validation failed with 146 violations
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ❌ Missing required folder: ◎_sacred_ground
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ❌ Missing required folder: ⦿OBI-WAN
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ❌ Missing required folder: ❖_wisdom_vessel
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ❌ Missing required folder: ◎_memory_core
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation-templates
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦MEDIA
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pages
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_field_essence
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD-DEV
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●business_documents
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: admin
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: venv_ray311
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configs
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚖️_forensic_data
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: court_30_oct_2025
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⬢_integration_flows
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▼TATA
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●FIELD
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ▲◼DOJO
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦GHOST-STATION
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_standards
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●configuration
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_process_documentation
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ai
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: logs
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●field-portal
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●pids
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _common
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⟡_init
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⚙︎_field_essence
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●lib
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_function
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼DOJO
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO_ACTIVE
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: sync-pulse
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●logs
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●scripts
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_field_essence
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦FINANCE
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _services
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _field_flow
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦HEALTH
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: DOJO_INTERFACE
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●_observation_records
+🔍✨ 2025-11-02 18:05:43,648 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●benchmarking
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●documentation
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: notion_sync
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: run_scripts
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◉_sacred_field_index
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_memory_core
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: AI_PORTALS
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_memory
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_documentation_core
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_documentation_examples
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●SacredGeometrySystem
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◆_living_documentation
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●❖_wisdom_vessel
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: raycast-extensions
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●OBI-WAN
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ⬢_documentation_registry
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_crm_integration
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: _purge_logs
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_sacred_ground
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: system_monitoring
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_field_flow
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●✣_documentation_archives
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●◎_akron_sdr
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: o_memory_core
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⊞_validation
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●tools
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⦿_active_documentation
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●ai
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦BUSINESS
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●observer_tools
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_soma_embodied
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●▥_sacred_ground
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◦DOCUMENTS
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◆_living_documentation
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●RESTORED
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●DALL·E Module
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: scripts
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ●⚙︎_field_essence
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ▼TATA
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: train_station
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ⚠️ Unauthorized folder detected: ◼︎DOJO
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦DOCUMENTS
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: o_memory_core
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: court_30_oct_2025
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: AI_PORTALS
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦FINANCE
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: 🏛️_TATA_FOUNDATION_ARCHIVE
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: raycast-extensions
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: venv_ray311
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _field_flow
+🔍✨ 2025-11-02 18:05:43,649 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _common
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦HEALTH
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: sync-pulse
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: admin
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: run_scripts
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦GHOST-STATION
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦BUSINESS
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: train_station
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: logs
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _services
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ai
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: scripts
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⚙︎_field_essence
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: _purge_logs
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ⟡_init
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: DOJO_INTERFACE
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: ◦MEDIA
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: notion_sync
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ❌ Invalid symbol in folder: system_monitoring
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◆_living_documentation should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_field_flow should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pids should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation-templates should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⬢_integration_flows should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_documentation_core should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●RESTORED should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⊞_validation should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●field-portal should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●tools should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●lib should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_field_essence should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◉_sacred_field_index should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●DALL·E Module should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●❖_wisdom_vessel should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚖️_forensic_data should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●logs should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●pages should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⦿_active_documentation should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observer_core should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●benchmarking should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●_observation_records should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●documentation should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configuration should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●⚙︎_process_documentation should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●scripts should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●configs should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_standards should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●business_documents should contain observer functions
+🔍✨ 2025-11-02 18:05:43,650 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●▥_sacred_ground should contain observer functions
+🔍✨ 2025-11-02 18:05:43,651 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●✣_documentation_archives should contain observer functions
+🔍✨ 2025-11-02 18:05:43,651 - Enhanced FIELD Validator - ERROR -   ⚠️ Form-function mismatch: ●◎_function should contain observer functions

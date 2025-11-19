@@ -1,0 +1,589 @@
+// Berjak FRE (Field Resonance Enterprise) System
+// Commodity Trading & Risk Management Platform
+// Database Schema - Version 1.0
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================================================
+// CORE ENTITIES - Customer Management (FR-1)
+// ============================================================================
+
+model Customer {
+  id              String         @id @default(cuid())
+  tradingName     String
+  legalName       String?
+  abn             String?        @unique
+  customerType    CustomerType
+  creditLimit     Decimal?       @db.Decimal(15, 2)
+  creditInsurer   String?
+  status          String         @default("ACTIVE")
+  
+  // Relationships
+  addresses       Address[]
+  contacts        Contact[]
+  bankDetails     BankDetail[]
+  
+  // Trading relationships
+  buyerLeads      TradeLead[]    @relation("TradeLeadBuyer")
+  sellerLeads     TradeLead[]    @relation("TradeLeadSeller")
+  agentLeads      TradeLead[]    @relation("TradeLeadAgent")
+  
+  buyerContracts  Contract[]     @relation("ContractBuyer")
+  sellerContracts Contract[]     @relation("ContractSeller")
+  
+  // Commissions
+  commissions     Commission[]
+  
+  // Metadata
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  createdBy       String?
+  
+  @@index([customerType])
+  @@index([tradingName])
+}
+
+model Address {
+  id              String    @id @default(cuid())
+  customerId      String
+  customer        Customer  @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  
+  addressType     String    // REGISTERED, POSTAL, PHYSICAL
+  street          String
+  city            String
+  state           String?
+  postcode        String?
+  country         String
+  isPrimary       Boolean   @default(false)
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([customerId])
+}
+
+model Contact {
+  id              String    @id @default(cuid())
+  customerId      String
+  customer        Customer  @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  
+  firstName       String
+  lastName        String
+  title           String?
+  email           String?
+  phone           String?
+  mobile          String?
+  isPrimary       Boolean   @default(false)
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([customerId])
+  @@index([email])
+}
+
+model BankDetail {
+  id              String    @id @default(cuid())
+  customerId      String
+  customer        Customer  @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  
+  bankName        String
+  accountName     String
+  accountNumber   String
+  bsb             String?
+  swift           String?
+  iban            String?
+  currency        String    @default("AUD")
+  isPrimary       Boolean   @default(false)
+  
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([customerId])
+}
+
+// ============================================================================
+// PRODUCT MANAGEMENT
+// ============================================================================
+
+model Product {
+  id              String            @id @default(cuid())
+  productCode     String            @unique
+  isriCode        String?
+  name            String
+  description     String?
+  category        ProductCategory
+  specifications  Json?
+  images          String[]
+  
+  // Relationships
+  tradeLeads      TradeLead[]
+  
+  // Metadata
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+  
+  @@index([category])
+  @@index([productCode])
+}
+
+// ============================================================================
+// TRADING WORKFLOW - Trade Lead Processing (FR-2)
+// ============================================================================
+
+model TradeLead {
+  id                String            @id @default(cuid())
+  tradeLeadNumber   String            @unique
+  date              DateTime          @default(now())
+  
+  // Parties
+  buyerId           String?
+  buyer             Customer?         @relation("TradeLeadBuyer", fields: [buyerId], references: [id])
+  sellerId          String?
+  seller            Customer?         @relation("TradeLeadSeller", fields: [sellerId], references: [id])
+  agentId           String?
+  agent             Customer?         @relation("TradeLeadAgent", fields: [agentId], references: [id])
+  
+  // Product details
+  productId         String
+  product           Product           @relation(fields: [productId], references: [id])
+  quantity          Decimal           @db.Decimal(15, 3)
+  unit              String            @default("MT") // Metric Tonnes
+  
+  // Pricing
+  unitPrice         Decimal?          @db.Decimal(15, 2)
+  currency          String            @default("USD")
+  paymentTerms      String?
+  
+  // Logistics
+  shipmentDate      DateTime?
+  deliveryCountry   String?
+  shippingTerms     ShippingTerms?
+  
+  // Status tracking
+  status            TradeLeadStatus   @default(NEW)
+  priority          String            @default("MEDIUM")
+  assignedTo        String?
+  
+  // Relationships
+  contracts         Contract[]
+  notes             TradeLeadNote[]
+  
+  // Metadata
+  createdAt         DateTime          @default(now())
+  updatedAt         DateTime          @updatedAt
+  createdBy         String?
+  
+  @@index([status])
+  @@index([assignedTo])
+  @@index([date])
+}
+
+model TradeLeadNote {
+  id              String      @id @default(cuid())
+  tradeLeadId     String
+  tradeLead       TradeLead   @relation(fields: [tradeLeadId], references: [id], onDelete: Cascade)
+  
+  note            String      @db.Text
+  createdBy       String
+  
+  createdAt       DateTime    @default(now())
+  
+  @@index([tradeLeadId])
+}
+
+// ============================================================================
+// COMMISSION MANAGEMENT (FR-3)
+// ============================================================================
+
+model Commission {
+  id                String      @id @default(cuid())
+  customerId        String
+  customer          Customer    @relation(fields: [customerId], references: [id])
+  
+  productCategory   ProductCategory?
+  commissionType    String      // PERCENTAGE, FIXED_PER_UNIT
+  commissionRate    Decimal     @db.Decimal(10, 4)
+  currency          String      @default("USD")
+  
+  minVolume         Decimal?    @db.Decimal(15, 3)
+  maxVolume         Decimal?    @db.Decimal(15, 3)
+  
+  effectiveFrom     DateTime
+  effectiveTo       DateTime?
+  
+  createdAt         DateTime    @default(now())
+  updatedAt         DateTime    @updatedAt
+  
+  @@index([customerId])
+}
+
+// ============================================================================
+// CONTRACT MANAGEMENT (FR-5)
+// ============================================================================
+
+model Contract {
+  id                String              @id @default(cuid())
+  contractNumber    String              @unique
+  
+  // Source
+  tradeLeadId       String?
+  tradeLead         TradeLead?          @relation(fields: [tradeLeadId], references: [id])
+  
+  // Parties
+  buyerId           String
+  buyer             Customer            @relation("ContractBuyer", fields: [buyerId], references: [id])
+  sellerId          String
+  seller            Customer            @relation("ContractSeller", fields: [sellerId], references: [id])
+  
+  // Product & Pricing
+  productDetails    Json                // Product, specs, grade
+  quantity          Decimal             @db.Decimal(15, 3)
+  unit              String              @default("MT")
+  unitPrice         Decimal             @db.Decimal(15, 2)
+  totalValue        Decimal             @db.Decimal(15, 2)
+  currency          String              @default("USD")
+  
+  // Payment
+  depositValue      Decimal?            @db.Decimal(15, 2)
+  paymentTerms      String
+  
+  // Status
+  status            ContractStatus      @default(DRAFT)
+  signedDate        DateTime?
+  deliveryDate      DateTime?
+  completedDate     DateTime?
+  
+  // Relationships
+  documents         ContractDocument[]
+  invoices          Invoice[]
+  movements         MovementOrder[]
+  claims            Claim[]
+  priceAuthorizations PriceAuthorization[]
+  
+  // Metadata
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+  createdBy         String?
+  
+  @@index([status])
+  @@index([contractNumber])
+  @@index([buyerId])
+  @@index([sellerId])
+}
+
+model ContractDocument {
+  id              String      @id @default(cuid())
+  contractId      String
+  contract        Contract    @relation(fields: [contractId], references: [id], onDelete: Cascade)
+  
+  documentType    String      // CONTRACT, INVOICE, BOL, CERTIFICATE
+  fileName        String
+  fileUrl         String
+  fileSize        Int?
+  mimeType        String?
+  
+  uploadedBy      String?
+  uploadedAt      DateTime    @default(now())
+  
+  @@index([contractId])
+}
+
+// ============================================================================
+// PRICE AUTHORIZATION (FR-4)
+// ============================================================================
+
+model PriceAuthorization {
+  id                String      @id @default(cuid())
+  contractId        String
+  contract          Contract    @relation(fields: [contractId], references: [id])
+  
+  requestedPrice    Decimal     @db.Decimal(15, 2)
+  authorizedPrice   Decimal?    @db.Decimal(15, 2)
+  marketPrice       Decimal?    @db.Decimal(15, 2)
+  variance          Decimal?    @db.Decimal(10, 2)
+  
+  requestedBy       String
+  requestedAt       DateTime    @default(now())
+  
+  status            String      @default("PENDING") // PENDING, APPROVED, REJECTED
+  authorizedBy      String?
+  authorizedAt      DateTime?
+  rejectionReason   String?
+  
+  @@index([contractId])
+  @@index([status])
+}
+
+// ============================================================================
+// MARKET DATA
+// ============================================================================
+
+model MarketData {
+  id              String      @id @default(cuid())
+  date            DateTime
+  commodity       String
+  exchange        String      // LME, COMEX, etc.
+  
+  closingPrice    Decimal     @db.Decimal(15, 2)
+  openingPrice    Decimal?    @db.Decimal(15, 2)
+  dayHigh         Decimal?    @db.Decimal(15, 2)
+  dayLow          Decimal?    @db.Decimal(15, 2)
+  volume          Decimal?    @db.Decimal(15, 3)
+  currency        String      @default("USD")
+  
+  createdAt       DateTime    @default(now())
+  
+  @@unique([date, commodity, exchange])
+  @@index([commodity])
+  @@index([date])
+}
+
+// ============================================================================
+// BUSINESS OPERATIONS (FR-6)
+// ============================================================================
+
+model MovementOrder {
+  id                String              @id @default(cuid())
+  movementNumber    String              @unique
+  contractId        String
+  contract          Contract            @relation(fields: [contractId], references: [id])
+  
+  // Shipping details
+  vesselName        String?
+  bookingRef        String?
+  shipAgent         String?
+  portOfLoading     String?
+  portOfDischarge   String?
+  
+  shipmentDate      DateTime?
+  arrivalDate       DateTime?
+  
+  // Status
+  status            String              @default("DRAFT")
+  
+  // Relationships
+  documents         MovementDocument[]
+  
+  // Metadata
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+  
+  @@index([contractId])
+  @@index([status])
+}
+
+model MovementDocument {
+  id              String          @id @default(cuid())
+  movementId      String
+  movement        MovementOrder   @relation(fields: [movementId], references: [id], onDelete: Cascade)
+  
+  documentType    String          // BOL, PACKING_LIST, CERTIFICATE
+  fileName        String
+  fileUrl         String
+  
+  uploadedAt      DateTime        @default(now())
+  
+  @@index([movementId])
+}
+
+model Invoice {
+  id                String      @id @default(cuid())
+  invoiceNumber     String      @unique
+  contractId        String
+  contract          Contract    @relation(fields: [contractId], references: [id])
+  
+  invoiceType       String      // SALES, PURCHASE, PROVISIONAL, FINAL
+  invoiceDate       DateTime
+  dueDate           DateTime?
+  
+  subtotal          Decimal     @db.Decimal(15, 2)
+  taxAmount         Decimal?    @db.Decimal(15, 2)
+  totalAmount       Decimal     @db.Decimal(15, 2)
+  currency          String      @default("USD")
+  
+  status            String      @default("DRAFT") // DRAFT, SENT, PAID, OVERDUE
+  paidDate          DateTime?
+  
+  fileUrl           String?
+  
+  createdAt         DateTime    @default(now())
+  updatedAt         DateTime    @updatedAt
+  
+  @@index([contractId])
+  @@index([status])
+}
+
+// ============================================================================
+// CLAIMS MANAGEMENT (FR-7)
+// ============================================================================
+
+model Claim {
+  id                String          @id @default(cuid())
+  claimNumber       String          @unique
+  contractId        String
+  contract          Contract        @relation(fields: [contractId], references: [id])
+  
+  claimType         ClaimType
+  claimAmount       Decimal         @db.Decimal(15, 2)
+  currency          String          @default("USD")
+  description       String          @db.Text
+  
+  liability         Liability?
+  status            ClaimStatus     @default(REGISTERED)
+  
+  settlementAmount  Decimal?        @db.Decimal(15, 2)
+  settlementDate    DateTime?
+  
+  // Relationships
+  documents         ClaimDocument[]
+  
+  // Metadata
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  createdBy         String?
+  
+  @@index([contractId])
+  @@index([status])
+}
+
+model ClaimDocument {
+  id              String      @id @default(cuid())
+  claimId         String
+  claim           Claim       @relation(fields: [claimId], references: [id], onDelete: Cascade)
+  
+  documentType    String      // PHOTO, LAB_REPORT, CORRESPONDENCE
+  fileName        String
+  fileUrl         String
+  
+  uploadedAt      DateTime    @default(now())
+  
+  @@index([claimId])
+}
+
+// ============================================================================
+// USER MANAGEMENT & AUTHENTICATION
+// ============================================================================
+
+model User {
+  id              String      @id @default(cuid())
+  email           String      @unique
+  name            String?
+  password        String      // Hashed
+  role            UserRole    @default(TRADER)
+  
+  // Authorization limits (for price approval)
+  priceAuthLimit  Decimal?    @db.Decimal(15, 2)
+  
+  status          String      @default("ACTIVE")
+  
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+  lastLoginAt     DateTime?
+  
+  @@index([email])
+  @@index([role])
+}
+
+model AuditLog {
+  id              String      @id @default(cuid())
+  userId          String?
+  action          String
+  entityType      String
+  entityId        String
+  oldValues       Json?
+  newValues       Json?
+  ipAddress       String?
+  
+  createdAt       DateTime    @default(now())
+  
+  @@index([userId])
+  @@index([entityType, entityId])
+  @@index([createdAt])
+}
+
+// ============================================================================
+// ENUMS
+// ============================================================================
+
+enum CustomerType {
+  BUYER
+  SELLER
+  AGENT
+  BROKER
+}
+
+enum ProductCategory {
+  SCRAP_METAL
+  NON_FERROUS
+  FERROUS
+  PRECIOUS_METALS
+  INDUSTRIAL_MINERALS
+}
+
+enum ShippingTerms {
+  FOB
+  CIF
+  CFR
+  FID
+  EXWORKS
+  DDP
+  DAP
+}
+
+enum TradeLeadStatus {
+  NEW
+  QUOTED
+  NEGOTIATING
+  WON
+  LOST
+  EXPIRED
+}
+
+enum ContractStatus {
+  DRAFT
+  CONFIRMED
+  ACTIVE
+  COMPLETED
+  CANCELLED
+}
+
+enum ClaimType {
+  QUALITY
+  QUANTITY
+  SHIPPING
+  PAYMENT
+  OTHER
+}
+
+enum ClaimStatus {
+  REGISTERED
+  INVESTIGATING
+  NEGOTIATING
+  SETTLED
+  REJECTED
+}
+
+enum Liability {
+  BUYER
+  SELLER
+  CARRIER
+  INSURANCE
+  UNKNOWN
+}
+
+enum UserRole {
+  ADMIN
+  TRADING_MANAGER
+  TRADER
+  OPERATIONS
+  FINANCE
+  READ_ONLY
+}
