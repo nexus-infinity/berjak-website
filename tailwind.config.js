@@ -8,11 +8,19 @@ module.exports = {
     extend: {
       colors: {
         berjak: {
-          primary: '#139C89',    // Original teal color
-          secondary: '#454444',  // Dark gray
-          light: '#DDF2EA',     // Light teal
-          lighter: '#ECF8F3',   // Lightest teal
-          text: '#333333',      // Text color
+          // MODERN BRANDING (Berjak Design DNA - External Expression)
+          gold: '#B8860B',       // Heritage gold (60+ years)
+          navy: '#1A3A52',       // Professional navy
+          white: '#FFFFFF',      // Clean backgrounds
+          black: '#0A0E1A',      // Deep text
+          gray: '#718096',       // Secondary text
+
+          // Legacy mappings (for compatibility - WILL BE REMOVED)
+          primary: '#B8860B',    // NOW: Gold (was teal)
+          secondary: '#1A3A52',  // NOW: Navy (was dark gray)
+          light: '#F5F5DC',      // NOW: Beige/cream (was light teal)
+          lighter: '#FAFAF5',    // NOW: Off-white (was lightest teal)
+          text: '#0A0E1A',       // Berjak black
         },
       },
       typography: {
