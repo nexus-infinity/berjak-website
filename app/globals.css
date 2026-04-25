@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Inter", "Inter Fallback", system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", "Georgia", serif;
+
+  --color-background: #0a0a0a;
+  --color-foreground: #fafafa;
+  --color-muted: #171717;
+  --color-muted-foreground: #a3a3a3;
+  --color-card: #0f0f0f;
+  --color-card-foreground: #fafafa;
+  --color-border: #262626;
+  --color-primary: #d4a853;
+  --color-primary-foreground: #0a0a0a;
+  --color-secondary: #1a1a1a;
+  --color-secondary-foreground: #fafafa;
+  --color-accent: #b8860b;
+  --color-accent-foreground: #0a0a0a;
+  --color-destructive: #dc2626;
+  --color-destructive-foreground: #fafafa;
+  --color-ring: #d4a853;
+  --radius: 0.5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Golden glow effect */
+.glow-gold {
+  box-shadow: 0 0 40px rgba(212, 168, 83, 0.3),
+              0 0 80px rgba(212, 168, 83, 0.15),
+              0 0 120px rgba(212, 168, 83, 0.05);
+}
+
+.text-glow-gold {
+  text-shadow: 0 0 20px rgba(212, 168, 83, 0.5),
+               0 0 40px rgba(212, 168, 83, 0.25);
+}
+
+/* Geometric symbol styling */
+.geometric-symbol {
+  font-family: system-ui, sans-serif;
+  font-weight: 300;
+}
+
+/* Luminous line animation */
+@keyframes luminous-pulse {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.luminous-line {
+  animation: luminous-pulse 3s ease-in-out infinite;
+}
+
+/* Subtle grain texture overlay */
+.grain-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%' height='100%' filter='url(%23noise)'/%3E%3C/svg%3E");
+  opacity: 0.03;
+  pointer-events: none;
+  mix-blend-mode: overlay;
+}

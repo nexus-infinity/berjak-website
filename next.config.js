@@ -2,12 +2,17 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: [''], // Add image domains as needed
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "hebbkx1anhila5yf.public.blob.vercel-storage.com",
+      },
+    ],
   },
   compiler: {
-    removeConsole: process.env.NODE_ENV === 'production',
+    removeConsole: process.env.NODE_ENV === "production",
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
 
