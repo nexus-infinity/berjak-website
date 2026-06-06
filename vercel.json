@@ -1,13 +1,6 @@
 {
-  "name": "berjak-website",
-  "version": 2,
-  "public": true,
-  "builds": [
-    {
-      "src": "next.config.js",
-      "use": "@vercel/next"
-    }
-  ],
+  "framework": "nextjs",
+  "regions": ["syd1"],
   "headers": [
     {
       "source": "/(.*)",
@@ -40,14 +33,7 @@
   ],
   "functions": {
     "pages/api/webhook.js": {
-      "runtime": "nodejs18.x",
       "includeFiles": "pages/api/**"
     }
-  },
-  "env": {
-    "TRAIN_STATION_URL": "http://localhost:5280"
-  },
-  "regions": ["iad1", "syd1"],
-  "framework": "nextjs"
+  }
 }
-
