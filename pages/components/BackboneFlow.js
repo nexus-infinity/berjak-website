@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
-import { Card, CardHeader, CardTitle, CardContent } from './ui/card'
-import { Button } from './ui/button'
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
+import { Button } from '@/components/ui/button'
 
 // Your father's 2007 Strategic Backbone Process
 const backboneSteps = [
