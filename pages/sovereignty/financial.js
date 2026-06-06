@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Layout from '../components/Layout'
-import { Button } from '../components/ui/button'
-import { Card, CardHeader, CardTitle, CardContent } from '../components/ui/card'
+import { Button } from '@/components/ui/button'
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 
 export default function FinancialInvestigation() {
   const [records, setRecords] = useState([])

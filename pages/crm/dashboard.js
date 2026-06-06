@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import Layout from '../components/Layout'
-import { Button } from '../components/ui/button'
-import { Card, CardHeader, CardTitle, CardContent } from '../components/ui/card'
-import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '../components/ui/table'
-import { Input } from '../components/ui/input'
+import { Button } from '@/components/ui/button'
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
+import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table'
+import { Input } from '@/components/ui/input'
 import BackboneFlow from '../components/BackboneFlow'
 
 // Mock data based on your 2008 CRM system
