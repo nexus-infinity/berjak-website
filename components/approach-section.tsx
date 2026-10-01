@@ -3,29 +3,29 @@ import { GeometricSymbol } from "./geometric-nav";
 const principles = [
   {
     symbol: "●" as const,
-    title: "Evidence",
-    subtitle: "Witness",
+    title: "OBI-WAN",
+    subtitle: "Observer",
     description:
       "We ground every decision in observable reality. Material specifications, market conditions, quality standards — all verified before commitment.",
   },
   {
     symbol: "▼" as const,
-    title: "Time",
-    subtitle: "Law / Spine",
+    title: "TATA",
+    subtitle: "Truth",
     description:
       "Seven decades of accumulated knowledge form the structural backbone. Established relationships, proven processes, enduring standards.",
   },
   {
     symbol: "▲" as const,
-    title: "Pattern",
-    subtitle: "Synthesis",
+    title: "ATLAS",
+    subtitle: "Intelligence",
     description:
       "We recognize market patterns and synthesize disparate signals into coherent strategy. Connecting supply with demand across continents.",
   },
   {
     symbol: "◼" as const,
-    title: "Manifest",
-    subtitle: "Execution",
+    title: "DOJO",
+    subtitle: "Manifest",
     description:
       "Ideas become shipments. Contracts become deliveries. We execute with precision, transforming agreement into physical reality.",
   },
@@ -35,7 +35,6 @@ export function ApproachSection() {
   return (
     <section id="approach" className="py-24 md:py-32 bg-background relative">
       <div className="max-w-6xl mx-auto px-6">
-        {/* Section Header */}
         <div className="flex items-center gap-4 mb-16">
           <GeometricSymbol symbol="▲" size="lg" />
           <div>
@@ -43,21 +42,18 @@ export function ApproachSection() {
               Approach
             </h2>
             <p className="text-sm text-muted-foreground uppercase tracking-widest mt-1">
-              Pattern · Synthesis
+              Observer · Truth · Intelligence
             </p>
           </div>
         </div>
 
-        {/* Geometric System Introduction */}
         <div className="max-w-2xl mb-16">
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Our operational philosophy is encoded in a geometric semantic
-            system. Four symbols represent the cardinal modes of trade
-            execution—each appearing wherever orientation is needed.
+            OBI-WAN observes. TATA holds the truth. ATLAS holds the
+            intelligence. DOJO manifests. The three do not trade places.
           </p>
         </div>
 
-        {/* Principles Grid */}
         <div className="grid md:grid-cols-2 gap-8">
           {principles.map((principle) => (
             <div
