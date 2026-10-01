@@ -116,10 +116,10 @@
     }
   },
   "cycles": {
-    "observer_architect_weaver": [
+    "observer_truth_architect": [
       "observer:OBI-WAN",
+      "truth:TATA",
       "architect:ATLAS",
-      "weaver:TATA",
       "manifest:DOJO",
       "reflect:FIELD-LIVING"
     ]
@@ -127,6 +127,7 @@
   "validation": {
     "harmonic_rule": "All nodes must reconverge through ◼︎ DOJO at 432 Hz.",
     "frequency_bridge": "Train Station enforces 432 Hz frequency conversions.",
-    "last_review": "2025-11-01T22:37:38+11:00"
+    "trident": "OBI-WAN observes. TATA holds the truth. ATLAS holds the intelligence. DOJO manifests. TATA is not the weaver.",
+    "last_review": "2026-10-02T01:32:00+11:00"
   }
 }
