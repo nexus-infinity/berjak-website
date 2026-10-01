@@ -10,10 +10,10 @@ interface GeometricNavItem {
 }
 
 const navItems: GeometricNavItem[] = [
-  { symbol: "●", label: "Evidence", meaning: "Witness", href: "#evidence" },
-  { symbol: "▼", label: "Time", meaning: "Law / Spine", href: "#heritage" },
-  { symbol: "▲", label: "Pattern", meaning: "Synthesis", href: "#approach" },
-  { symbol: "◼", label: "Manifest", meaning: "Execution", href: "#contact" },
+  { symbol: "●", label: "OBI-WAN", meaning: "Observer", href: "#evidence" },
+  { symbol: "▼", label: "TATA", meaning: "Truth", href: "#heritage" },
+  { symbol: "▲", label: "ATLAS", meaning: "Intelligence", href: "#approach" },
+  { symbol: "◼", label: "DOJO", meaning: "Manifest", href: "#contact" },
 ];
 
 export function GeometricNav({ className }: { className?: string }) {
